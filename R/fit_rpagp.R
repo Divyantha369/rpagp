@@ -51,3 +51,5 @@ fit_rpagp <- function(y, n_iter, theta0, hyperparam, seed = 0) {
 
   return(results)
 }
+
+# A small change to test the Git workflow
