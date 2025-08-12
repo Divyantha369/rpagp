@@ -2,8 +2,8 @@ Package: rpagp
 Type: Package
 Title: High-Performance Bayesian RPAGP Model for ERP Data
 Version: 1.0.0
-Author: Your Name <your.email@example.com>
-Maintainer: Your Name <your.email@example.com>
+Author: Divyantha Praneed <dmalimbodagamge@augusta.edu>
+Maintainer: Divyantha Praneed <dmalimbodagamge@augusta.edu>
 Description: Implements a highly optimized MCMC sampler for the Random Phase-Amplitude Gaussian Process (RPAGP) model, as described by Pluta et al. (2024) <doi:10.1038/s41598-024-59579-2>. Provides robust and fast inference on trial-level ERP data characteristics like amplitude and latency.
 License: MIT 
 Encoding: UTF-8
